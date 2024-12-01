@@ -1,0 +1,17 @@
+Group	Quadrant1	Quadrant2	Quadrant3	Quadrant4
+groups Ia	10	1	0	28
+groups IIIb	6	1	1	15
+groups IIa	15	0	5	0
+groups Iib	7	3	2	16
+groups Ib	16	0	0	0
+groups Ic	10	0	0	0
+groupⅥ	4	7	0	8
+groups IIIa	0	0	0	61
+groups IIc-f	1	3	5	45
+groupⅣ	1	14	0	14
+groupⅦ	0	8	0	14
+Unclassified	0	8	0	12
+groups IIIc-d	0	5	0	14
+groups Id-e	0	0	0	16
+groupV	0	11	0	3
+	70	61	13	246
